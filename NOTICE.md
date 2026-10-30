@@ -12,7 +12,7 @@ with it.
 in `assets/models/` are not covered by the MIT licence. All rights reserved.**
 
 They are original characters belonging to the repository owner, used here and
-in the [Critter Cam filter](https://github.com/sxz8564/niulai_filter). The MIT
+in the [Critter Cam filter](https://github.com/laozhuca/niulai_filter). The MIT
 licence above applies to the software, not to them.
 
 To use the characters in your own work, ask.

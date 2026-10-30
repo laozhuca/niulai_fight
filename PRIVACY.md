@@ -33,4 +33,4 @@ browsing data Chrome keeps for the extension clears it too.
 Nothing is shared between machines, which also means the board is your own —
 your runs, not the world's, and the game says so on the screen that shows it.
 
-Questions: https://github.com/sxz8564/niulai_fight/issues
+Questions: https://github.com/laozhuca/niulai_fight/issues

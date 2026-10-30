@@ -167,9 +167,9 @@ policy and the form agree.
 
 | Field | Use |
 | --- | --- |
-| Homepage | `https://github.com/sxz8564/niulai_fight` |
-| Support | `https://github.com/sxz8564/niulai_fight/issues` |
-| Privacy policy | `https://github.com/sxz8564/niulai_fight/blob/main/PRIVACY.md` |
+| Homepage | `https://github.com/laozhuca/niulai_fight` |
+| Support | `https://github.com/laozhuca/niulai_fight/issues` |
+| Privacy policy | `https://github.com/laozhuca/niulai_fight/blob/main/PRIVACY.md` |
 
 All three need the repository to be public. A URL the reviewer cannot open is a
 rejection.
